@@ -11,6 +11,11 @@
 		5BC59F012B00252C0019B2ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC59F002B00252C0019B2ED /* ContentView.swift */; };
 		5BC59F032B00252E0019B2ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BC59F022B00252E0019B2ED /* Assets.xcassets */; };
 		5BC59F062B00252E0019B2ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BC59F052B00252E0019B2ED /* Preview Assets.xcassets */; };
+		5BC59F0D2B0028270019B2ED /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC59F0C2B0028270019B2ED /* ColorView.swift */; };
+		5BC7358D2B02968E00641A15 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC7358C2B02968E00641A15 /* ListView.swift */; };
+		5BC7358F2B02C09800641A15 /* OmikuziView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC7358E2B02C09800641A15 /* OmikuziView.swift */; };
+		5BC735912B02C22B00641A15 /* WalicanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC735902B02C22B00641A15 /* WalicanView.swift */; };
+		5BC735932B02D87700641A15 /* IscheckedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC735922B02D87700641A15 /* IscheckedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		5BC59F002B00252C0019B2ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5BC59F022B00252E0019B2ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BC59F052B00252E0019B2ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5BC59F0C2B0028270019B2ED /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		5BC7358C2B02968E00641A15 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		5BC7358E2B02C09800641A15 /* OmikuziView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmikuziView.swift; sourceTree = "<group>"; };
+		5BC735902B02C22B00641A15 /* WalicanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalicanView.swift; sourceTree = "<group>"; };
+		5BC735922B02D87700641A15 /* IscheckedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IscheckedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +63,11 @@
 			children = (
 				5BC59EFE2B00252C0019B2ED /* StudyAppApp.swift */,
 				5BC59F002B00252C0019B2ED /* ContentView.swift */,
+				5BC59F0C2B0028270019B2ED /* ColorView.swift */,
+				5BC7358E2B02C09800641A15 /* OmikuziView.swift */,
+				5BC735902B02C22B00641A15 /* WalicanView.swift */,
+				5BC735922B02D87700641A15 /* IscheckedView.swift */,
+				5BC7358C2B02968E00641A15 /* ListView.swift */,
 				5BC59F022B00252E0019B2ED /* Assets.xcassets */,
 				5BC59F042B00252E0019B2ED /* Preview Content */,
 			);
@@ -137,6 +152,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BC7358D2B02968E00641A15 /* ListView.swift in Sources */,
+				5BC7358F2B02C09800641A15 /* OmikuziView.swift in Sources */,
+				5BC735912B02C22B00641A15 /* WalicanView.swift in Sources */,
+				5BC59F0D2B0028270019B2ED /* ColorView.swift in Sources */,
+				5BC735932B02D87700641A15 /* IscheckedView.swift in Sources */,
 				5BC59F012B00252C0019B2ED /* ContentView.swift in Sources */,
 				5BC59EFF2B00252C0019B2ED /* StudyAppApp.swift in Sources */,
 			);
